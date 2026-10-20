@@ -7,7 +7,6 @@ maintainable architecture, and a focus on performance and user
 experience.
 
 [Email](mailto:mykytalandar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/landar-mykyta/)
-:::
 
 ------------------------------------------------------------------------
 
@@ -62,7 +61,7 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactro
 
 ## Featured Projects
 
-### Nice Gadgets --- E-commerce Application
+### Nice Gadgets | E-commerce Application
 
 A responsive e-commerce application for browsing smartphones, tablets,
 and accessories.
@@ -79,8 +78,9 @@ and accessories.
 Router, Sass, Swiper, Vite, Local Storage.
 
 **Links:** [Live Demo](https://mykytalandar.github.io/NICE-GADGETS/) · [Source Code](https://github.com/mykytalandar/NICE-GADGETS)
+------------------------------------------------------------------------
 
-### Series Tracker --- TV Series Progress Tracker
+### Series Tracker | TV Series Progress Tracker
 
 A responsive single-page application for keeping track of TV series
 progress.
@@ -93,6 +93,7 @@ progress.
 **Technologies:** React, TypeScript, Vite, Local Storage, ESLint.
 
 **Links:** [Live Demo](https://mykytalandar.github.io/series-tracker/) · [Source Code](https://github.com/mykytalandar/series-tracker)
+------------------------------------------------------------------------
 
 ### 2048 Game
 
@@ -104,8 +105,9 @@ A browser-based version of the classic 2048 puzzle game.
 **Technologies:** HTML5, CSS3, JavaScript (ES6+), ESLint, GitHub Pages.
 
 **Links:** [Live Demo](https://mykytalandar.github.io/2048-Game/) · [Source Code](https://github.com/mykytalandar/2048-Game)
+------------------------------------------------------------------------
 
-### The MET --- Landing Page
+### The MET | Landing Page
 
 A responsive landing page presenting visitor information, exhibitions,
 and museum programs for The Metropolitan Museum of Art.

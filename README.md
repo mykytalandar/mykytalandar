@@ -75,7 +75,7 @@ and accessories.
 **Technologies:** React, TypeScript, React Context API, Zustand, React
 Router, Sass, Swiper, Vite, Local Storage.
 
-**Links:** [Live Demo](https://mykytalandar.github.io/NICE-GADGETS/) · [Source Code](https://github.com/mykytalandar/NICE-GADGETS)
+**Links:** **[Live Demo](https://mykytalandar.github.io/NICE-GADGETS/) · [Source Code](https://github.com/mykytalandar/NICE-GADGETS)**
 ------------------------------------------------------------------------
 
 ### Series Tracker | TV Series Progress Tracker
@@ -90,7 +90,7 @@ progress.
 
 **Technologies:** React, TypeScript, Vite, Local Storage, ESLint.
 
-**Links:** [Live Demo](https://mykytalandar.github.io/series-tracker/) · [Source Code](https://github.com/mykytalandar/series-tracker)
+**Links:** **[Live Demo](https://mykytalandar.github.io/series-tracker/) · [Source Code](https://github.com/mykytalandar/series-tracker)**
 ------------------------------------------------------------------------
 
 ### 2048 Game
@@ -102,7 +102,7 @@ A browser-based version of the classic 2048 puzzle game.
 
 **Technologies:** HTML5, CSS3, JavaScript (ES6+), ESLint, GitHub Pages.
 
-**Links:** [Live Demo](https://mykytalandar.github.io/2048-Game/) · [Source Code](https://github.com/mykytalandar/2048-Game)
+**Links:** **[Live Demo](https://mykytalandar.github.io/2048-Game/) · [Source Code](https://github.com/mykytalandar/2048-Game)**
 ------------------------------------------------------------------------
 
 ### The MET | Landing Page
@@ -113,3 +113,4 @@ and museum programs for The Metropolitan Museum of Art.
 **Technologies:** HTML5, SCSS, BEM, ESLint, GitHub Pages.
 
 **Links:** **[Live Demo](https://mykytalandar.github.io/The-MET-Landing/) · [Source Code](https://github.com/mykytalandar/The-MET-Landing)**
+------------------------------------------------------------------------

@@ -8,8 +8,6 @@ experience.
 
 [Email](mailto:mykytalandar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/landar-mykyta/)
 
-------------------------------------------------------------------------
-
 ## About Me
 
 -   Front-End Developer focused on **React, TypeScript, and modern
@@ -114,4 +112,4 @@ and museum programs for The Metropolitan Museum of Art.
 
 **Technologies:** HTML5, SCSS, BEM, ESLint, GitHub Pages.
 
-**Links:** [Live Demo](https://mykytalandar.github.io/The-MET-Landing/) · [Source Code](https://github.com/mykytalandar/The-MET-Landing)
+**Links:** **[Live Demo](https://mykytalandar.github.io/The-MET-Landing/) · [Source Code](https://github.com/mykytalandar/The-MET-Landing)**
